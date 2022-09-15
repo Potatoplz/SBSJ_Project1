@@ -36,5 +36,33 @@
 
 <br><br>
 
-<h2> 📼 시연 영상 </h2>
+<h2> 🎥 시연 영상 </h2>
 https://www.youtube.com/watch?v=IeXZuWqRbac
+
+<br><br>
+
+<h2> 📃 최종발표 자료(PPT) </h2>
+https://spot-belt-aac.notion.site/54026d25d0cf49e98fa6583182b05e61
+
+<br><br>
+
+
+<h2> 💻 개발 환경 </h2>
+<table>
+ <tr> 
+ <th> Back-end </th>
+ <td> spring MVC, maven, java, eclipse, mybatis </td>
+ </tr>
+ <tr> 
+ <th> Front-end </th>
+ <td> HTML5, CSS3, javascript, jQuery, jsp, json, Gson, JSTL </td>
+ </tr>
+ <tr>
+ <th> Server </th>
+ <td> Apache Tomcat, MySQL, JDBC </td>
+ </tr>
+ <tr>
+ <th> 협업 tool </th>
+ <td> Figma, GitHub, ERD, Notion, Sourcetree, Google Sheets </td>
+ </tr>
+</table>
